@@ -5,3 +5,4 @@ This will be a project based on a front end web project that will contain a list
 
 #### Technology
 - [x] HTML
+- [x] CSS

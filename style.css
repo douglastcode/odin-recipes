@@ -1,0 +1,173 @@
+/* GLOBAL */
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(17, 24, 39);
+}
+
+.container {
+    padding: 15px;
+    height: 100%;
+
+    margin: 15px;
+}
+
+/* Recipes */
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+    display: block;
+}
+
+ul li {
+    list-style: none;
+}
+
+.bg {
+    background-color: rgba(31, 41, 55, 0.6);
+    border-radius: 10px;
+    width: 250px;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+/* Lasagna Recipe */
+
+.lasagna-title {
+    color: #f0f0f0;
+}
+
+.home a {
+    display: block;
+    padding: 15px 0;
+}
+
+.container img {
+    width: 300px;
+    height: auto;
+
+    border-radius: 15px;
+}
+
+.text-description {
+    padding: 10px 0;
+}
+
+.text-description h2 {
+    color: #f0f0f0;
+}
+
+.text-description p {
+    color: #ffffff;
+    padding: 10px 0;
+    width: 50%;
+}
+
+.text-ingredients h3 {
+    color: #f0f0f0;
+}
+
+.text-ingredients p {
+    color: #ffffff;
+    padding: 10px 0;
+}
+
+.text-ingredients p a {
+    display: inline-block;
+    font-weight: bold;
+}
+
+.list-ingredients {
+    padding: 10px;
+}
+
+.list-ingredients li {
+    list-style: circle;
+    margin: 0 0 0 10px;
+
+    color: #ffffff;
+    line-height: 20px;
+}
+
+.list-ingredients li a {
+    display: inline-block;
+    font-weight: bold;
+}
+
+.text-step {
+    color: #f0f0f0;
+    padding: 10px 0;
+}
+
+.list-order-step li {
+    color: #ffffff;
+    margin: 3px 20px;
+}
+
+/* Pizza Recipes */
+
+.text-description-pizza {
+    padding: 10px 0;
+}
+
+.text-description-pizza h2 {
+    color: #f0f0f0;
+}
+
+.text-description-pizza p {
+    color: #ffffff;
+}
+
+.text-description-pizza p a {
+    display: inline-block;
+    font-weight: bold;
+}
+
+.text-ingredients ul {
+    padding: 10px;
+    line-height: 20px;
+}
+
+.text-ingredients ul li {
+    color: #ffffff;
+}
+
+.text-directions h3 {
+    color: #f0f0f0;
+}
+
+.text-directions ol {
+    padding: 10px 20px;
+    line-height: 20px;
+}
+
+.text-directions ol li {
+    color: #ffffff;
+}
+
+/* strogonoff */
+
+.text-description-easy {
+    padding: 10px 0;
+    line-height: 30px;
+}
+
+.text-description-easy h3 {
+    color: #f0f0f0;
+}
+
+.text-description-easy h3 a {
+    display: inline-block;
+    text-decoration: underline;
+}
+
+.text-description-easy p {
+    color: #ffffff;
+}
